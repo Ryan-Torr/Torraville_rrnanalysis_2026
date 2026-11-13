@@ -1,0 +1,11 @@
+[workspace]
+authors = ["Ryan-Torr <ryan.m.torraville@gmail.com>"]
+channels = ['conda-forge', "bioconda"]
+name = "Torraville_rrnanalysis_2026"
+platforms = ['linux-64']
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+mothur = ">=1.48.6,<2"
