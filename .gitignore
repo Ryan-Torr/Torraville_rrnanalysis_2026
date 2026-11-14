@@ -3,3 +3,5 @@ data/
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+#mothur log files 
+mothur.*.logfile
